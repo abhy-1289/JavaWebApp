@@ -16,6 +16,9 @@
 	<description>Project9 for Spring Boot App</description>
 	<properties>
 		<java.version>1.8</java.version>
+		<sonar.host.url>http://3.111.36.6:9000/</sonar.host.url>
+		<sonar.login>admin</sonar.login>
+		<sonar.password>Sonar@1289</sonar.password>
 	</properties>
 	<dependencies>
 		<dependency>
